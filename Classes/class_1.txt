@@ -1,0 +1,8 @@
+Employees
+-Host (string)
+-Server (string)
+-Cook (string)
+
+-greet (welcomes the customer, helps find seating)
+-serve (keeps drinks refilled, takes order, brings food)
+-Prepare food (makes the food)
