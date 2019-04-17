@@ -1,0 +1,8 @@
+Employee Schedules
+-Employee Position (string)
+-Days scheduled (array)
+-Time scheduled (datetime)
+
+-Dictates days worked
+-Reflects availability
+-Shows number of staff per day
