@@ -1,8 +1,8 @@
-Employees
--Host (string)
--Server (string)
--Cook (string)
+Menus
+-Price (integer or float)
+-Food category (string)
+-Ingredients (array)
 
--greet (welcomes the customer, helps find seating)
--serve (keeps drinks refilled, takes order, brings food)
--Prepare food (makes the food)
+-lists
+-shows price
+-provides allergy information
