@@ -1,0 +1,14 @@
+Drinks
+-Non alcoholic
+	-fountain drinks
+	-juices
+-Cocktails
+	-rum based
+	-tequila based 
+	-vodka based
+-Beer on tap
+	-Ales
+	-Stouts/ portters
+	-Wheat beer
+
+Order a drink
